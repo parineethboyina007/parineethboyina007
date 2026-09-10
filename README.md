@@ -206,17 +206,3 @@ Ship
 I like projects where **software meets a real problem** — whether that's making AI responses more trustworthy, detecting security threats, deploying ML on constrained hardware, or building systems that interact with the physical world.
 
 ---
-
-## 🤝 Connect
-
-<div align="left">
-
-**GitHub:** Parineeth Boyina
-
-**LinkedIn:** Parineeth Boyina
-
-</div>
-
----
-
-### 💡 Build things. Understand how they work. Make them better.
