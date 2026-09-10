@@ -1,30 +1,31 @@
 # Hi, I'm Parineeth 👋
 
-**Computer Science Student · AI/ML · Cybersecurity · Systems**
+### Computer Science Student | AI/ML | Cybersecurity | Edge AI | Full-Stack Development
 
-I build practical software at the intersection of **AI, cybersecurity, and real-world systems**. My projects range from citation-grounded RAG applications and security-focused ML systems to **TinyML applications running on ESP32**.
+I build practical software at the intersection of **Artificial Intelligence, Cybersecurity, and real-world systems**.
 
-I enjoy taking an idea from **problem → architecture → implementation → working system**.
+My work spans **RAG applications, machine learning, computer vision, network security, TinyML, embedded systems, and full-stack development**. I enjoy taking ideas from **problem → design → implementation → working system**.
 
 ---
 
-## 🧑‍💻 What I Build
+## 🧑‍💻 About Me
 
-- 🤖 **AI/ML** — LLMs, Generative AI, RAG, semantic search, computer vision
-- 🔐 **Cybersecurity** — Network security, intrusion detection, security-focused ML
-- ⚡ **Edge AI** — TinyML, embedded ML, ESP32, resource-constrained inference
-- 🌐 **Full-Stack Systems** — React, TypeScript, Python, FastAPI
-- 🧩 **Systems & Software** — APIs, data pipelines, real-time applications
+- 🤖 Building with **AI/ML, Generative AI, LLMs, and RAG**
+- 🔐 Exploring **Cybersecurity, Network Security, and Intrusion Detection**
+- ⚡ Experimenting with **TinyML, ESP32, Arduino, and Edge AI**
+- 👁️ Building real-time applications using **Computer Vision**
+- 🌐 Developing full-stack applications with **React, TypeScript, Python, and FastAPI**
+- 🧩 Interested in building systems that combine **software, intelligence, and real-world interaction**
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 [Cited Sports RAG](https://github.com/parineethboyina007)
+### 🧠 Cited Sports RAG
 
-A multi-document **Retrieval-Augmented Generation system** designed to produce grounded answers from provided sports datasets with verifiable inline citations.
+A multi-document **Retrieval-Augmented Generation system** designed to answer sports-related questions using provided datasets while producing grounded responses with verifiable inline citations.
 
-**Stack:** `Python` `FastAPI` `React` `TypeScript` `FAISS` `Sentence Transformers` `RapidFuzz` `Groq`
+**Tech:** `Python` `FastAPI` `React` `TypeScript` `FAISS` `Sentence Transformers` `RapidFuzz` `Groq`
 
 **Highlights**
 - Hybrid semantic + lexical retrieval
@@ -32,59 +33,70 @@ A multi-document **Retrieval-Augmented Generation system** designed to produce g
 - Fuzzy entity matching
 - Citation generation and verification
 - Grounded response generation
-- Hallucination and out-of-scope query handling
+- Hallucination prevention
+- Out-of-scope query handling
 
 ---
 
 ### 🔐 TinyIDS
 
-A lightweight **network intrusion detection system** for identifying suspicious network activity using machine-learning techniques.
+A lightweight **network intrusion detection system** focused on analyzing network traffic and identifying potentially suspicious activity using machine-learning techniques.
 
-**Stack:** `Python` `Machine Learning` `Networking` `Embedded Systems`
+**Tech:** `Python` `Machine Learning` `Networking` `Embedded Systems`
 
-**Focus**
+**Highlights**
 - Network traffic analysis
 - Feature-based threat detection
 - Lightweight ML inference
 - Security-focused system design
+- Edge-oriented approach
 
 ---
 
 ### 👁️ Eye Blink & Posture Monitor
 
-A real-time **computer vision system** that monitors blink activity, fatigue-related behavior, and sitting posture through a webcam.
+A real-time **computer vision monitoring system** that detects eye blinks, fatigue-related behavior, and sitting posture using webcam-based facial landmark analysis.
 
-**Stack:** `Python` `OpenCV` `MediaPipe`
+**Tech:** `Python` `OpenCV` `MediaPipe`
 
 **Highlights**
 - Real-time facial landmark processing
 - Blink detection
 - Fatigue estimation
-- Posture detection and calibration
-- Real-time alerts and monitoring
+- Posture detection
+- Personalized posture calibration
+- Real-time alerts
 - Fatigue trend visualization
+- Automatic monitoring pause/resume
 
 ---
 
 ### ⛓️ VoteChain
 
-A blockchain-based **civic voting platform** designed around transparency, public verifiability, and auditability.
+A blockchain-powered **civic voting platform** designed around transparency, public verifiability, and independent auditability.
 
-**Stack:** `TypeScript` `Blockchain` `Web Development`
+**Tech:** `TypeScript` `Blockchain` `Web Development`
+
+**Focus**
+- Transparent voting workflows
+- Public verifiability
+- Blockchain-based records
+- Audit-oriented system design
 
 ---
 
 ### 🎵 TinyML Audio Classifier
 
-An embedded machine-learning system that performs **audio classification directly on resource-constrained hardware**.
+An embedded machine-learning project that performs **audio classification directly on resource-constrained hardware**.
 
-**Stack:** `C` `ESP32` `TinyML` `Audio Classification`
+**Tech:** `C` `ESP32` `TinyML` `Audio Classification`
 
-**Focus**
-- Edge inference
-- Embedded ML
-- Resource-constrained systems
+**Highlights**
+- On-device inference
+- Embedded machine learning
+- Resource-constrained deployment
 - Real-time audio classification
+- Edge AI experimentation
 
 ---
 
@@ -92,7 +104,12 @@ An embedded machine-learning system that performs **audio classification directl
 
 A web-based parking application focused on simplifying **parking management and user interaction**.
 
-**Stack:** `JavaScript` `Web Development`
+**Tech:** `JavaScript` `Web Development`
+
+**Focus**
+- Parking management
+- User-oriented workflows
+- Web-based application design
 
 ---
 
@@ -103,7 +120,7 @@ A web-based parking application focused on simplifying **parking management and 
                                   │
                  ┌────────────────┼────────────────┐
                  │                │                │
-             Generative AI       LLMs             CV
+            Generative AI        LLMs       Computer Vision
                  │                │                │
                  └────────────────┼────────────────┘
                                   │
@@ -115,7 +132,7 @@ A web-based parking application focused on simplifying **parking management and 
                     │                           │
             ┌───────┴───────┐             ┌─────┴─────┐
             │               │             │           │
-      Network Security   ML Security   TinyML      ESP32
+      Network Security  Security ML    TinyML      ESP32
             │
             ▼
     Intrusion Detection
@@ -129,27 +146,27 @@ A web-based parking application focused on simplifying **parking management and 
 
 `Python` `C` `C++` `TypeScript` `JavaScript` `SQL`
 
-### AI / ML
+### Artificial Intelligence & Machine Learning
 
-`LLMs` `RAG` `Machine Learning` `Computer Vision` `MediaPipe` `FAISS` `Sentence Transformers`
+`Generative AI` `LLMs` `RAG` `Machine Learning` `Computer Vision` `MediaPipe` `FAISS` `Sentence Transformers`
 
 ### Backend
 
-`FastAPI` `REST APIs` `Node.js`
+`Python` `FastAPI` `Node.js` `REST APIs`
 
 ### Frontend
 
-`React` `TypeScript` `HTML` `CSS`
+`React` `TypeScript` `JavaScript` `HTML` `CSS`
 
-### Systems & Embedded
+### Embedded & Edge AI
 
-`ESP32` `Arduino` `TinyML` `Embedded C`
+`ESP32` `Arduino` `Embedded C` `TinyML` `Edge AI`
 
-### Security
+### Cybersecurity
 
 `Network Security` `Intrusion Detection` `Security-focused ML`
 
-### Tools
+### Tools & Platforms
 
 `Git` `GitHub` `Linux` `Docker`
 
@@ -161,13 +178,15 @@ A web-based parking application focused on simplifying **parking management and 
 - LLM-powered applications
 - AI agents and tool-using systems
 - Security applications of machine learning
+- Network intrusion detection
 - Edge AI and TinyML
 - Real-time computer vision
-- Scalable full-stack architectures
+- Scalable backend architectures
+- Full-stack system design
 
 ---
 
-## 📊 GitHub
+## 📈 GitHub Activity
 
 <div align="center">
 
@@ -179,13 +198,36 @@ A web-based parking application focused on simplifying **parking management and 
 
 ---
 
-## 🤝 Connect
+## 🎯 What I Care About
 
-<p align="left">
-<a href="https://github.com/parineethboyina007">GitHub</a> ·
-<a href="https://www.linkedin.com/in/parineeth-boyina/">LinkedIn</a>
-</p>
+```text
+Build
+  ↓
+Understand
+  ↓
+Experiment
+  ↓
+Break
+  ↓
+Improve
+  ↓
+Ship
+```
+
+I like projects where **software meets a real problem** — whether that's making AI responses more trustworthy, detecting security threats, deploying ML on constrained hardware, or building systems that interact with the physical world.
 
 ---
 
-> **Build things. Understand how they work. Then make them better.**
+## 🤝 Connect
+
+<div align="left">
+
+**GitHub:** Parineeth Boyina
+
+**LinkedIn:** Parineeth Boyina
+
+</div>
+
+---
+
+### 💡 Build things. Understand how they work. Make them better.
