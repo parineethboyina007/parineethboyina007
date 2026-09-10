@@ -1,100 +1,191 @@
 # Hi, I'm Parineeth 👋
 
-I'm a developer interested in building practical systems across **Artificial Intelligence, Machine Learning, Cybersecurity, Embedded Systems, and Full-Stack Development**.
+**Computer Science Student · AI/ML · Cybersecurity · Systems**
 
-I enjoy exploring how intelligent software can interact with real-world systems — from **RAG applications and cybersecurity tools to TinyML models running on ESP32 devices**.
+I build practical software at the intersection of **AI, cybersecurity, and real-world systems**. My projects range from citation-grounded RAG applications and security-focused ML systems to **TinyML applications running on ESP32**.
+
+I enjoy taking an idea from **problem → architecture → implementation → working system**.
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 What I Build
 
-- 🔭 Building projects in **AI/ML, Cybersecurity, RAG, and Embedded Systems**
-- 🤖 Interested in **Generative AI, LLMs, RAG, and Edge AI**
-- 🔐 Exploring **Network Security, Intrusion Detection, and Security-focused ML**
-- ⚡ Working with **ESP32, Arduino, and TinyML**
-- 🌐 Building applications with **React, TypeScript, Python, and FastAPI**
-- 🧠 Always learning and experimenting with new technologies
+- 🤖 **AI/ML** — LLMs, Generative AI, RAG, semantic search, computer vision
+- 🔐 **Cybersecurity** — Network security, intrusion detection, security-focused ML
+- ⚡ **Edge AI** — TinyML, embedded ML, ESP32, resource-constrained inference
+- 🌐 **Full-Stack Systems** — React, TypeScript, Python, FastAPI
+- 🧩 **Systems & Software** — APIs, data pipelines, real-time applications
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 Cited Sports RAG
+### 🧠 [Cited Sports RAG](https://github.com/parineethboyina007)
 
-A multi-document **Retrieval-Augmented Generation (RAG)** application that answers sports-related questions using provided datasets while providing grounded responses and inline citations.
+A multi-document **Retrieval-Augmented Generation system** designed to produce grounded answers from provided sports datasets with verifiable inline citations.
 
-**Tech:** Python · FastAPI · React · TypeScript · FAISS · Sentence Transformers · RapidFuzz · Groq
+**Stack:** `Python` `FastAPI` `React` `TypeScript` `FAISS` `Sentence Transformers` `RapidFuzz` `Groq`
 
-**Key Features:**
-- Hybrid retrieval
-- Semantic search
-- Fuzzy entity matching
+**Highlights**
+- Hybrid semantic + lexical retrieval
 - Multi-document retrieval
-- Inline citations
-- Citation verification
-- Hallucination prevention
-- Out-of-scope query handling
+- Fuzzy entity matching
+- Citation generation and verification
+- Grounded response generation
+- Hallucination and out-of-scope query handling
 
 ---
 
 ### 🔐 TinyIDS
 
-A lightweight network intrusion detection system focused on analyzing network traffic and identifying suspicious activity.
+A lightweight **network intrusion detection system** for identifying suspicious network activity using machine-learning techniques.
 
-**Tech:** Python · Machine Learning · Networking · Embedded Systems
+**Stack:** `Python` `Machine Learning` `Networking` `Embedded Systems`
+
+**Focus**
+- Network traffic analysis
+- Feature-based threat detection
+- Lightweight ML inference
+- Security-focused system design
 
 ---
 
 ### 👁️ Eye Blink & Posture Monitor
 
-A computer-vision based monitoring system that detects eye blinks, fatigue-related behavior, and posture using camera-based analysis.
+A real-time **computer vision system** that monitors blink activity, fatigue-related behavior, and sitting posture through a webcam.
 
-**Tech:** Python · MediaPipe · OpenCV
+**Stack:** `Python` `OpenCV` `MediaPipe`
+
+**Highlights**
+- Real-time facial landmark processing
+- Blink detection
+- Fatigue estimation
+- Posture detection and calibration
+- Real-time alerts and monitoring
+- Fatigue trend visualization
 
 ---
 
 ### ⛓️ VoteChain
 
-A blockchain-powered civic voting platform designed around transparency, public verifiability, and independent auditability.
+A blockchain-based **civic voting platform** designed around transparency, public verifiability, and auditability.
 
-**Tech:** TypeScript · Blockchain · Web Development
+**Stack:** `TypeScript` `Blockchain` `Web Development`
 
 ---
 
 ### 🎵 TinyML Audio Classifier
 
-An embedded machine-learning project designed to perform audio classification directly on resource-constrained hardware.
+An embedded machine-learning system that performs **audio classification directly on resource-constrained hardware**.
 
-**Tech:** C · ESP32 · TinyML · Audio Classification
+**Stack:** `C` `ESP32` `TinyML` `Audio Classification`
+
+**Focus**
+- Edge inference
+- Embedded ML
+- Resource-constrained systems
+- Real-time audio classification
 
 ---
 
 ### 🌐 Parkease
 
-A web-based parking application focused on simplifying parking-related management and user interaction.
+A web-based parking application focused on simplifying **parking management and user interaction**.
 
-**Tech:** JavaScript · Web Development
+**Stack:** `JavaScript` `Web Development`
 
 ---
 
-## 🧠 Areas of Interest
+## 🧠 Technical Interests
 
 ```text
-Artificial Intelligence
-        │
-        ├── Generative AI
-        ├── LLMs
-        └── Retrieval-Augmented Generation
-                    │
-                    ▼
-              Machine Learning
-                    │
-        ┌───────────┴───────────┐
-        ▼                       ▼
- Cybersecurity              Edge AI
-        │                       │
-        ▼                       ▼
- Network Security          TinyML / ESP32
-        │
-        ▼
- Intrusion Detection
+                         Artificial Intelligence
+                                  │
+                 ┌────────────────┼────────────────┐
+                 │                │                │
+             Generative AI       LLMs             CV
+                 │                │                │
+                 └────────────────┼────────────────┘
+                                  │
+                                 RAG
+                                  │
+                    ┌─────────────┴─────────────┐
+                    │                           │
+              Cybersecurity                 Edge AI
+                    │                           │
+            ┌───────┴───────┐             ┌─────┴─────┐
+            │               │             │           │
+      Network Security   ML Security   TinyML      ESP32
+            │
+            ▼
+    Intrusion Detection
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+`Python` `C` `C++` `TypeScript` `JavaScript` `SQL`
+
+### AI / ML
+
+`LLMs` `RAG` `Machine Learning` `Computer Vision` `MediaPipe` `FAISS` `Sentence Transformers`
+
+### Backend
+
+`FastAPI` `REST APIs` `Node.js`
+
+### Frontend
+
+`React` `TypeScript` `HTML` `CSS`
+
+### Systems & Embedded
+
+`ESP32` `Arduino` `TinyML` `Embedded C`
+
+### Security
+
+`Network Security` `Intrusion Detection` `Security-focused ML`
+
+### Tools
+
+`Git` `GitHub` `Linux` `Docker`
+
+---
+
+## 📌 Currently Exploring
+
+- Advanced **RAG architectures**
+- LLM-powered applications
+- AI agents and tool-using systems
+- Security applications of machine learning
+- Edge AI and TinyML
+- Real-time computer vision
+- Scalable full-stack architectures
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=parineethboyina007&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parineethboyina007&layout=compact&hide_border=true" height="165"/>
+
+</div>
+
+---
+
+## 🤝 Connect
+
+<p align="left">
+<a href="https://github.com/parineethboyina007">GitHub</a> ·
+<a href="https://www.linkedin.com/in/parineeth-boyina/">LinkedIn</a>
+</p>
+
+---
+
+> **Build things. Understand how they work. Then make them better.**
